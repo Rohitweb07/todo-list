@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;
+}
+h1{
+   color: burlywood;
+   
+}
+.list
+{
+    text-align: center;
+    background-color: aqua;
+    
+}
+.listdisplay
+{
+    width: 600px;
+    height:auto;
+    margin: auto;
+    margin-top:20px;
+}
+#name
+{
+    margin-top: 20px;
+}
+
